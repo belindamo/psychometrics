@@ -1,5 +1,8 @@
 # Psychometric Benchmark Research Concept
 
+## Dataset
+https://github.com/ben-domingue/irw/issues/996
+
 ## Core Idea
 Create standardized psychometric benchmarks using high-quality public datasets from the Item Response Warehouse (IRW) backlog, starting with Chilean Early Childhood Longitudinal Survey (ELPI) data.
 
